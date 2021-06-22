@@ -1,4 +1,4 @@
-<<<<<<< HEAD
-apiRest_Django
-API para armazenar informações de veiculos + imagens
+API REST EM DJANGO
+
+Salvando informções de veiculos + imagens!
 
